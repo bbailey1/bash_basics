@@ -1,4 +1,3 @@
-
 echo "What is the meaning of life?"
 read meaning
 
