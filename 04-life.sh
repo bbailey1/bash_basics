@@ -16,7 +16,7 @@ fi
 # morning or not
 echo "Is the time 3:00 am - 11:00 am?(yes or no)"
 read time
-if ["$time" -eq yes]; then#
+if ["$time" -eq yes]; then##
 	echo "It is Morning"
 else
 	echo "It is not morning"
