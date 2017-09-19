@@ -14,7 +14,7 @@ fi
 
 # exercise: write a script that prints whether it is 
 # morning or not
-echo "Is the time 3:00 am - 11:00 am?"
+echo "Is the time 3:00 am - 11:00 am?(yes or no)"
 read time
 if ["$time" -eq yes]; then
 	echo "It is Morning"
